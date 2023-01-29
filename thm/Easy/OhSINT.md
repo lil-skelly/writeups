@@ -36,10 +36,10 @@ GPS Position                    : 54 deg 17' 41.27" N, 2 deg 15' 1.33" W
 We can see there is a copyright from `OWoodflint`. 
 By googling the username we find his Twitter, Github and also his blog.
 
-> **Social Media**
-**Twitter**: https://twitter.com/OWoodflint
-**Blog**: https://oliverwoodflint.wordpress.com/author/owoodflint/
-**Github**: https://github.com/OWoodfl1nt/people_finder
+> **Social Media** <br>
+> Twitter: https://twitter.com/OWoodflint <br>
+> Blog: https://oliverwoodflint.wordpress.com/author/owoodflint/ <br>
+> Github: https://github.com/OWoodfl1nt/people_finder <br>
 
 Taking a look at his tweet we can see that he is kind enough to share his BSSID (Router ID). We can now answer the first question since we clearly see his avatar is a cat.
 
@@ -48,21 +48,21 @@ Taking a look at his tweet we can see that he is kind enough to share his BSSID 
 There is no better way to thank him than to track him down ;)
 To do that we will be using [WiGLE](https://wigle.net). After you register your account head over to `View` -> `Advanced Search`.
 
-![[wigle_query.png]]
+![](../../assets/wigle_query.png)
 
-![[query_results.png]]
+![](../../assets/query_results.png)
 
 We obtain the `SSID`. The next question asks us for the personal email of the user. Twitter does not give out the email in the profile. But since he has a Github account maybe he included contact details to one of his repositories.
 
-![[github_email.png]]
+![](../../assets/github_email.png)
 
 Great! Now we need to know where OWoodflint's gone on holiday. People love to brag about it in their blogs and this guy has one. 
 
-![[blog_holiday.png]]
+![](../../assets/blog_holiday.png)
 
 Now we need his password. Perhaps he stored it in the blog's source. Do not dare to say this is stupid. The guy posted his `BSSID` on twitter :P. Let's just press `Ctrl + A` to highlight everything inside of the pages body.
 
-![[blog_passwd.png]]
+![](../../assets/blog_passwd.png)
 
 And here it is! Congrats you can now call yourself an "osinter" :D
 
